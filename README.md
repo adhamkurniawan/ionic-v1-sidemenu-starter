@@ -1,1 +1,1 @@
-# Starter application ionic version 1.x with sidemenu
+# Starter application ionic latest version 1.3.2 with sidemenu
